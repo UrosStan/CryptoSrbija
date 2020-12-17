@@ -1,4 +1,4 @@
-var datum = new Date("Jan 1, 2021 00:00:00").getTime();
+var datum = new Date("Dec 26, 2020 09:00:00").getTime();
 
 var x = setInterval(function() {
     var sada = new Date().getTime();
